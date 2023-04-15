@@ -1,0 +1,6 @@
+.env
+__pycache__
+migrate.bat
+run.bat
+db.sqlite3
+token.txt
